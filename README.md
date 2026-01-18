@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Syammm23/Syammm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on:<br>Frontend projects using HTML, CSS, JavaScript & React, and building my personal portfolio + small web apps to improve real-world skills.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly web development projects, UI improvements, and simple AI-based tools or chatbots.<br><br>🤝 I’m looking for help with:<br>Understanding advanced React concepts, backend integration (Node.js/APIs), and how to deploy projects properly.<br><br>🌱 I’m currently learning:<br>React, Git/GitHub, basic backend, and how AI tools can be used in web apps.<br><br>💬 Ask me about:<br>Frontend basics, portfolio setup, freelancing platforms, and AI data evaluation work.<br><br>⚡ Fun fact:<br>I’m serious about upgrading my skills and earning online — I don’t just watch tutorials, I try to build things (even when they break 😅).
 
 
@@ -30,10 +22,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Syammm23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
